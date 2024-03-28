@@ -1,5 +1,5 @@
 # Calculadora IMC
-Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros passos com desenvolvimento Android. Eu participei do desafio 10D na comunidade DevSpace e consegui sair do ZERO. 
+BMI "IMC" Calculator was an application I developed to take my first steps with Android development. I participated in the 10D challenge in the DevSpace community and managed to get out of ZERO. 
 
 
 
@@ -27,7 +27,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 
 
 ### TODO
-- Melhorar estilização do app
+- Improve app styling
 
 ## Author
 Anderson Goncalves Junior (follow me on [linkedin](https://au.linkedin.com/in/anderson-goncalves-junior-bbb9002b9))
